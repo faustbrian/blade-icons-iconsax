@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/BombenProdukt/blade-icons-iconsax/actions">
+    <a href="https://github.com/faustbrian/blade-icons-iconsax/actions">
         <img src="https://badge.sh/github/check-runs/BombenProdukt/blade-icons-iconsax" alt="Checks" />
     </a>
     <a href="https://packagist.org/packages/bombenprodukt/blade-icons-iconsax">
@@ -21,7 +21,7 @@
 
 ## About Iconsax
 
-This project was created by, and is maintained by [BombenProdukt](https://github.com/BombenProdukt), and is a package to easily make use of [Iconsax](https://iconsax.io/) with Laravel Blade Icons. Be sure to browse through the [changelog](CHANGELOG.md), [code of conduct](.github/CODE_OF_CONDUCT.md), [contribution guidelines](.github/CONTRIBUTING.md), [license](LICENSE), and [security policy](.github/SECURITY.md).
+This project was created by, and is maintained by [Brian Faust](https://github.com/faustbrian), and is a package to easily make use of [Iconsax](https://iconsax.io/) with Laravel Blade Icons. Be sure to browse through the [changelog](CHANGELOG.md), [code of conduct](.github/CODE_OF_CONDUCT.md), [contribution guidelines](.github/CONTRIBUTING.md), [license](LICENSE), and [security policy](.github/SECURITY.md).
 
 ## Installation
 
@@ -37,6 +37,6 @@ $ composer require bombenprodukt/blade-icons-iconsax
 ## Usage
 
 > **Note**
-> Please refer to the [Blade Icons](https://github.com/BombenProdukt/blade-icons) documentation for more information on how to use this package.
+> Please refer to the [Blade Icons](https://github.com/faustbrian/blade-icons) documentation for more information on how to use this package.
 
 The prefix for all icon families in this package is `iconsax`. Please refer to the [resources/svg](/resources/svg) directory for a list of available styles.
